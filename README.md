@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an imbecile with access to VS Code and a SSH server.
+I usually make stupid stuff, like [MagicPacketSSH](https://github.com/airime80/magicpacketssh) or [KATiA](https://github.com/airime80/KATiA)
+
+Most of those things have a lot hard coded in them, since they're just prototypes.
+MagicPacketSSH and KATiA aren't finished yet.
+
